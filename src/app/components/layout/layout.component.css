@@ -1,0 +1,22 @@
+.text-center.a{
+    font-size: 80px; 
+    font-family:'Agency FB', 'Segoe UI';
+  }
+  @media (max-width:568px)
+  {
+    .text-center.a{
+      font-size:70px;
+    }
+  }
+  @media (max-width:468px)
+  {
+    .text-center.a{
+      font-size:60px;
+    }
+  }
+  @media (max-width:398px)
+  {
+    .text-center.a{
+      font-size:50px;
+    }
+  }
